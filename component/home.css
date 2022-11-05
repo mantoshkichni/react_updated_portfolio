@@ -1,0 +1,72 @@
+.container {
+  background-image: url("backgroundImage1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+p {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: aliceblue;
+}
+.h11 {
+  background-color: rgba(0, 0, 0, 0.7);
+  color: aliceblue;
+}
+/* .home_ani_h1 {
+  animation: myanimation_h1;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+@keyframes myanimation_h1{
+  0%{
+    transform: translateX(-150%);
+  }
+  100%{
+    transform: translateX(0);
+  }
+}
+.home_ani_p{
+  animation: myanimation_p;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+@keyframes myanimation_p{
+  0%{
+    transform: translateX(150%);
+  }
+  100%{
+    transform: translateX(0);
+  }
+}
+.home_ani_a{
+  animation: myanimation_a;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+@keyframes myanimation_a{
+  0%{
+    opacity: 0;
+  }
+  100%{
+  opacity:1;
+  }
+}
+#aboutme:hover{
+  .ani_aboutme_h1{
+    animation:aboutme_animation;
+    animation-duration:1s;
+    animation-fill-mode:forwards;
+    animation-iteration-count:1;
+  }
+  @keyframes aboutme_animation{
+    0%{
+      transform: translateX(-150%);
+    }
+    100%{
+      transform: translateX(0);
+    }
+  }
+} */
+

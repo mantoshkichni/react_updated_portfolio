@@ -1,0 +1,28 @@
+.nav-link {
+  color: white;
+}
+.nav-link:hover {
+  color: black;
+  border-bottom: 1px solid #333;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: relative; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+/* .ani_navbar{
+  animation: myanimation;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+}
+@keyframes myanimation{
+  0%{
+    transform: translateY(-100%);
+  }
+  100%{
+    transform: translateY(0);
+  }
+} */
