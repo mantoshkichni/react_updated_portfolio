@@ -1,5 +1,6 @@
 .container {
-  background-image: url("backgroundImage1.jpg");
+  /* background-image: url("beach_photo.webp"); */
+  background-image: linear-gradient(to right, #8360c3, #2ebf91);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -69,4 +70,3 @@ p {
     }
   }
 } */
-
